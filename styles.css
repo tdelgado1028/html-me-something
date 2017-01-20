@@ -1,0 +1,49 @@
+html {
+font-family: Geneva;
+font-size: 130%;
+}
+
+body {
+width: 100%
+max-width: 1024px;
+background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin: 10px 5px;
+}
+
+h3 {
+    color: navy;
+    margin: 0px 5px 0px 20px;
+}
+
+h5 {
+    color: navy;
+    margin: 0px 50px 0px 30px;
+}
+
+p {
+color: navy;
+margin: 0px 100px;
+border-style: solid;
+border-left: none;
+border-right: none;
+border-bottom: none;
+}
+
+p.moviepic {
+padding: 1cm;
+align-content: center
+}
+
+.foreign {
+font-style: italic;
+display: inline;
+}
+
+#conclusion {
+font-weight: 900;
+font-size: 130%;
+}
